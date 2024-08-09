@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krish
 - 👀 I’m interested in building various types of real time application projects.
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on real time projects.
 - 📫 How to reach me?You can message me on discord.
 - 😄 Pronouns: He/Him
