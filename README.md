@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Krish
 - 👀 I’m interested in building various types of real time application projects.
-- 🌱 I’m currently Web-development
+- 🌱 I’m currently learning full-Stack Development.
 - 💞️ I’m looking to collaborate on real time projects.
-- 📫 How to reach me?You can message me on discord.
+- 📫 How to reach me?You can email me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am interested in fiction and hoping to make them reality.
 
