@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Building versious real time appilications**
+- 🔭 I’m currently working on **Building verious real time appilications**
 
 - 🌱 I’m learning **Next.js, Node.js, PostgreSQL, REST APIs and API integrations**
 
