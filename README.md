@@ -39,8 +39,9 @@
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KrishPatel1010&show_icons=true&theme=radical" alt="Krish's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishPatel1010&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KrishPatel1010&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
